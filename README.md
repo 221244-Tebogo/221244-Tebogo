@@ -22,11 +22,9 @@ AI integration, and a strong focus on accessibility and meaningful experiences.
 
 ---
 
-# 💼 Portfolio Projects
+# Portfolio Projects
 
 ---
-
-## **MOX – Desktop Project Management Tool**
 
 <p align="center">
   <img 
@@ -36,6 +34,7 @@ AI integration, and a strong focus on accessibility and meaningful experiences.
   />
 </p>
 
+## **MOX – Desktop Project Management Tool**
 A neuro-friendly, dopamine-driven project management tool designed for diverse teams.  
 MOX blends clean UX, accessibility, and modern desktop interactions.
 
