@@ -9,7 +9,7 @@
 
 ---
 
-## 🌟 About Me
+## About Me
 I’m a **graphic designer** transitioning into **UX design** and **interactive development**.  
 My work blends clean visual communication with functional, user-centred digital solutions.  
 I enjoy building apps that solve real problems — especially in **safety**, **team productivity**,  
@@ -21,13 +21,13 @@ AI integration, and a focus on accessibility and meaningful experiences.
 
 ---
 
-## 📌 Portfolio Projects
+## Portfolio Projects
 
 ### **1. MOX – Desktop Project Management Tool**
 A neuro-friendly, dopamine-driven project management app for diverse teams.
 
 <p align="center">
-  <img src="./assets/mox_cover.png" width="700"/>
+  <img src="https://raw.githubusercontent.com/221244-Tebogo/Mox/main/assets/mox_cover.png" width="700"/>
 </p>
 
 - Empathy-driven workflows for neurodivergent users  
@@ -44,13 +44,13 @@ A neuro-friendly, dopamine-driven project management app for diverse teams.
 A voice-first safety tool designed for one-hand, real-time emergency support.
 
 <p align="center">
-  <img src="./assets/lentsu_cover.png" width="700"/>
+  <img src="https://github.com/221244-Tebogo/Lentsu/blob/main/Mockups/lentsu_banner.png?raw=true" width="700" />
 </p>
 
 - Voice-activated safety commands  
 - Quick emergency triggers  
 - Time-stamped logs  
-- Firebase authentication + storage  
+- Firebase authentication & storage  
 - Targeted at young women and festival/nightlife users  
 
 **Repo:** https://github.com/221244-Tebogo/Lentsu  
@@ -66,8 +66,8 @@ A gamified environmental app for reporting litter, analysing waste, and organisi
 
 - AI-powered waste analysis (Gemini)  
 - Geotagged reporting + map hotspots  
-- Cleanup events + leaderboard  
-- Gamified badges + user analytics  
+- Cleanup events & leaderboard  
+- Gamified badges & user analytics  
 - Real-time Firestore backend  
 
 **Repo:** https://github.com/221244-Tebogo/cleantown  
