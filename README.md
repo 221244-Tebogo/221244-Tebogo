@@ -48,7 +48,7 @@ A neuro-friendly, dopamine-driven project management app for diverse teams.
 A voice-first safety tool designed for one-hand, real-time emergency support.
 
 <p align="center">
-  <img src="https://github.com/221244-Tebogo/Lentsu/blob/main/Mockups/lentsu_banner.png?raw=true" width="700" />
+  <img src="https://github.com/221244-Tebogo/Lentsu/blob/main/Mockups/lentsu_banner.png?raw=true" width="1000" />
 </p>
 
 - Voice-activated safety commands  
@@ -67,7 +67,7 @@ A gamified environmental app for reporting litter, analysing waste, and organisi
 <p align="center">
   <img 
     src="https://github.com/221244-Tebogo/cleantown/raw/main/Mockup/cleantown_banner.jpg" 
-    width="700" 
+    width="1000" 
     alt="CleanTown Banner"
   />
 </p>
