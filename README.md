@@ -1,4 +1,4 @@
-<!-- Banner -->
+<!-- Profile Banner -->
 <p align="center">
   <img src="./assets/profile_banner.png" width="100%" alt="Portfolio Banner"/>
 </p>
@@ -10,111 +10,126 @@
 ---
 
 ## About Me
+
 I’m a **graphic designer** transitioning into **UX design** and **interactive development**.  
 My work blends clean visual communication with functional, user-centred digital solutions.  
+
 I enjoy building apps that solve real problems — especially in **safety**, **team productivity**,  
 and **community impact**.
 
 This portfolio highlights my major DV300 projects, built with modern mobile technologies,  
-AI integration, and a focus on accessibility and meaningful experiences.  
-:contentReference[oaicite:0]{index=0}
+AI integration, and a strong focus on accessibility and meaningful experiences.
 
 ---
 
-## Portfolio Projects
+# 💼 Portfolio Projects
 
-### **1. MOX – Desktop Project Management Tool**
-A neuro-friendly, dopamine-driven project management app for diverse teams.
+---
+
+## **MOX – Desktop Project Management Tool**
 
 <p align="center">
   <img 
     src="https://github.com/221244-Tebogo/Mox/raw/main/Mockups/mox_banner.png" 
-    width="1000" 
+    width="100%"
     alt="MOX Banner"
   />
 </p>
 
+A neuro-friendly, dopamine-driven project management tool designed for diverse teams.  
+MOX blends clean UX, accessibility, and modern desktop interactions.
+
+**Key Features**
 - Empathy-driven workflows for neurodivergent users  
 - Drag-and-drop kanban board  
-- Sprint timelines + role-based access  
-- Full-stack build with modern UI + .NET backend  
-- Real-time analytics + accessibility features  
+- Sprint timelines & role-based access  
+- Desktop-ready UI with full-stack architecture  
+- Real-time analytics & accessibility-first design  
 
 **Repo:** https://github.com/221244-Tebogo/Mox  
 
 ---
 
-### **2. Lentsu – Personal Safety Companion App**
-A voice-first safety tool designed for one-hand, real-time emergency support.
+## **Lentsu – Personal Safety Companion App**
 
 <p align="center">
-  <img src="https://github.com/221244-Tebogo/Lentsu/blob/main/Mockups/lentsu_banner.png?raw=true" width="1000" />
+  <img 
+    src="https://github.com/221244-Tebogo/Lentsu/blob/main/Mockups/lentsu_banner.png?raw=true" 
+    width="100%"
+    alt="Lentsu Banner"
+  />
 </p>
 
-- Voice-activated safety commands  
-- Quick emergency triggers  
-- Time-stamped logs  
-- Firebase authentication & storage  
-- Targeted at young women and festival/nightlife users  
+A voice-first personal safety app designed for one-hand, real-time emergency support.
+
+**Key Features**
+- Voice-controlled emergency triggers  
+- Quick actions for unsafe situations  
+- Time-stamped audio & event logs  
+- Firebase authentication & cloud storage  
+- Built for nightlife, students, and solo commuters  
 
 **Repo:** https://github.com/221244-Tebogo/Lentsu  
 
 ---
 
-### **3. CleanTown – AI Civic Clean-Up App**
-A gamified environmental app for reporting litter, analysing waste, and organising cleanups.
+## **CleanTown – AI Civic Clean-Up App**
 
 <p align="center">
   <img 
     src="https://github.com/221244-Tebogo/cleantown/raw/main/Mockup/cleantown_banner.jpg" 
-    width="1000" 
+    width="100%"
     alt="CleanTown Banner"
   />
 </p>
 
+A gamified environmental mobile app for reporting litter, analysing waste,  
+and organising community cleanup events.
 
+**Key Features**
 - AI-powered waste analysis (Gemini)  
-- Geotagged reporting + map hotspots  
-- Cleanup events & leaderboard  
-- Gamified badges & user analytics  
-- Real-time Firestore backend  
+- Geotagged reports & hotspot mapping  
+- Community cleanup events  
+- Leaderboards, badges & XP rewards  
+- Firestore-driven real-time backend  
 
 **Repo:** https://github.com/221244-Tebogo/cleantown  
 
 ---
 
-## Tools & Technologies
+# 🛠️ Tools & Technologies
 
-**Frontend & Mobile**
-- React Native · Expo · TypeScript  
-- Expo Camera, Location, AV, Maps  
-- Nativewind · Gluestack UI  
-- vector-icons · SafeArea · Reanimated  
+**Frontend & Mobile**  
+React Native · Expo · TypeScript  
+Expo Camera · Location · AV · Maps  
+Nativewind · Gluestack · Reanimated  
+Vector Icons · Safe Area Context  
 
-**Backend & Cloud**
-- Firebase (Auth, Firestore, Storage, RTDB)  
-- Google Cloud APIs  
-- Gemini AI integration  
+**Backend & Cloud**  
+Firebase (Auth, Firestore, Storage)  
+Google Cloud APIs  
+Gemini AI  
 
-**Design**
-- Figma  
-- UI Kits & prototyping  
-- Graphic design foundations (print + digital)
-
----
-
-## What I Focus On
-- Designing clear, accessible user journeys  
-- Building real, functional mobile experiences  
-- AI-driven product features  
-- Community-focused and safety-driven problem solving  
+**Design**  
+Figma · UI Kits · Prototyping  
+Graphic Design foundations (print + digital)
 
 ---
 
-## 📫 Contact  
-- **Portfolio Website:** Coming soon  
-- **GitHub:** github.com/221244-Tebogo  
-- **LinkedIn:** (https://www.linkedin.com/in/mohau-ramolobeng/) 
+# 👀 What I Focus On
+
+- Clean, accessible user journeys  
+- Real functional mobile experiences  
+- AI-powered features  
+- Community and safety-driven problem solving  
+
+---
+
+# 📫 Contact
+
+- **GitHub:** https://github.com/221244-Tebogo  
+- **LinkedIn:** https://www.linkedin.com/in/mohau-ramolobeng/  
+- **Portfolio Website:** Coming soon
 
 <p align="center">
   <img src="./assets/footer_banner.png" width="100%" />
