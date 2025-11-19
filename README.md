@@ -49,8 +49,6 @@ MOX blends clean UX, accessibility, and modern desktop interactions.
 
 ---
 
-## **Lentsu – Personal Safety Companion App**
-
 <p align="center">
   <img 
     src="https://github.com/221244-Tebogo/Lentsu/blob/main/Mockups/lentsu_banner.png?raw=true" 
@@ -59,6 +57,7 @@ MOX blends clean UX, accessibility, and modern desktop interactions.
   />
 </p>
 
+## **Lentsu – Personal Safety Companion App**
 A voice-first personal safety app designed for one-hand, real-time emergency support.
 
 **Key Features**
@@ -72,8 +71,6 @@ A voice-first personal safety app designed for one-hand, real-time emergency sup
 
 ---
 
-## **CleanTown – AI Civic Clean-Up App**
-
 <p align="center">
   <img 
     src="https://github.com/221244-Tebogo/cleantown/raw/main/Mockup/cleantown_banner.jpg" 
@@ -82,6 +79,7 @@ A voice-first personal safety app designed for one-hand, real-time emergency sup
   />
 </p>
 
+## **CleanTown – AI Civic Clean-Up App**
 A gamified environmental mobile app for reporting litter, analysing waste,  
 and organising community cleanup events.
 
