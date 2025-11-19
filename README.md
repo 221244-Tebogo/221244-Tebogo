@@ -7,11 +7,9 @@
   />
 </p>
 
-<h2 align="center">Hey, I'm Tebogo Ramolobeng 👋</h2>
-
 ---
 
-## About Me
+## About Tebogo MS Ramolobeng
 
 I’m a **graphic designer** transitioning into **UX design** and **interactive development**.  
 My work blends clean visual communication with functional, user-centred digital solutions.  
@@ -96,7 +94,7 @@ and organising community cleanup events.
 
 ---
 
-# 🛠️ Tools & Technologies
+# Tools & Technologies
 
 **Frontend & Mobile**  
 React Native · Expo · TypeScript  
@@ -115,7 +113,7 @@ Graphic Design foundations (print + digital)
 
 ---
 
-# 👀 What I Focus On
+# What I Focus On
 
 - Clean, accessible user journeys  
 - Real functional mobile experiences  
@@ -124,7 +122,7 @@ Graphic Design foundations (print + digital)
 
 ---
 
-# 📫 Contact
+# Contact
 
 - **GitHub:** https://github.com/221244-Tebogo  
 - **LinkedIn:** https://www.linkedin.com/in/mohau-ramolobeng/  
