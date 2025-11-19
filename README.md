@@ -1,6 +1,10 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="./assets/profile_banner.png" width="100%" alt="Portfolio Banner"/>
+  <img 
+    src="https://raw.githubusercontent.com/221244-Tebogo/tebogo-portfolio/main/TebogoRamolobeng_Github_Profile.png" 
+    width="100%" 
+    alt="Portfolio Banner"
+  />
 </p>
 
 <h2 align="center">Hey, I'm Tebogo Ramolobeng 👋</h2>
