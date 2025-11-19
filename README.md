@@ -27,7 +27,11 @@ AI integration, and a focus on accessibility and meaningful experiences.
 A neuro-friendly, dopamine-driven project management app for diverse teams.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/221244-Tebogo/Mox/main/assets/mox_cover.png" width="700"/>
+  <img 
+    src="https://github.com/221244-Tebogo/Mox/raw/main/Mockups/mox_banner.png" 
+    width="1000" 
+    alt="MOX Banner"
+  />
 </p>
 
 - Empathy-driven workflows for neurodivergent users  
@@ -61,8 +65,13 @@ A voice-first safety tool designed for one-hand, real-time emergency support.
 A gamified environmental app for reporting litter, analysing waste, and organising cleanups.
 
 <p align="center">
-  <img src="./assets/cleantown_cover.png" width="700"/>
+  <img 
+    src="https://github.com/221244-Tebogo/cleantown/raw/main/Mockup/cleantown_banner.jpg" 
+    width="700" 
+    alt="CleanTown Banner"
+  />
 </p>
+
 
 - AI-powered waste analysis (Gemini)  
 - Geotagged reporting + map hotspots  
