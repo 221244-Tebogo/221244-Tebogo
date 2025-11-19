@@ -8,8 +8,6 @@
 </p>
 
 <h2 align="center">Hey, I'm Tebogo Ramolobeng 👋</h2>
-<p align="center">Graphic Designer → UX Designer → Interactive Developer</p>
-<p align="center">React Native · Expo · TypeScript · Firebase · AI · UX/UI Design</p>
 
 ---
 
