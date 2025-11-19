@@ -36,7 +36,7 @@ A neuro-friendly, dopamine-driven project management app for diverse teams.
 - Full-stack build with modern UI + .NET backend  
 - Real-time analytics + accessibility features  
 
-🔗 **Repo:** https://github.com/221244-Tebogo/Mox  
+**Repo:** https://github.com/221244-Tebogo/Mox  
 
 ---
 
@@ -53,7 +53,7 @@ A voice-first safety tool designed for one-hand, real-time emergency support.
 - Firebase authentication + storage  
 - Targeted at young women and festival/nightlife users  
 
-🔗 **Repo:** https://github.com/221244-Tebogo/Lentsu  
+**Repo:** https://github.com/221244-Tebogo/Lentsu  
 
 ---
 
@@ -70,11 +70,11 @@ A gamified environmental app for reporting litter, analysing waste, and organisi
 - Gamified badges + user analytics  
 - Real-time Firestore backend  
 
-🔗 **Repo:** https://github.com/221244-Tebogo/cleantown  
+**Repo:** https://github.com/221244-Tebogo/cleantown  
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 **Frontend & Mobile**
 - React Native · Expo · TypeScript  
@@ -94,7 +94,7 @@ A gamified environmental app for reporting litter, analysing waste, and organisi
 
 ---
 
-## 🧩 What I Focus On
+## What I Focus On
 - Designing clear, accessible user journeys  
 - Building real, functional mobile experiences  
 - AI-driven product features  
@@ -105,7 +105,7 @@ A gamified environmental app for reporting litter, analysing waste, and organisi
 ## 📫 Contact  
 - **Portfolio Website:** Coming soon  
 - **GitHub:** github.com/221244-Tebogo  
-- **LinkedIn:** Add once ready  
+- **LinkedIn:** (https://www.linkedin.com/in/mohau-ramolobeng/) 
 
 <p align="center">
   <img src="./assets/footer_banner.png" width="100%" />
