@@ -28,8 +28,8 @@ AI integration, and a strong focus on accessibility and meaningful experiences.
 
 <p align="center">
   <img 
-    src="https://github.com/221244-Tebogo/Mox/raw/main/Mockups/mox_banner.png" 
-    width="100%"
+    src="https://raw.githubusercontent.com/221244-Tebogo/tebogo-portfolio/main/Mox_Banner.jpg" 
+    width="100%" 
     alt="MOX Banner"
   />
 </p>
